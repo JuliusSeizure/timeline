@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="utf-16"?>
 <data>
 
- <event start="1800" title="New sport played by Canadians ">
+  <event start="1800" title="New sport played by Canadians ">
        Ice hockey, as we know it, is first played in either Nova Scotia, Windsor, Kingston, Ontario, or Quebec. Origin not clearly defined.
- </event>
+  </event>
 
 
- <event start="Feb 27 1877" title="First known rules published">
+  <event start="Feb 27 1877" title="First known rules published">
        On February 27th, 1877, the first known rules for hockey are published by the Montreal Gazette, a newspaper company.
- </event>
+  </event>
  
- <event start="1886" title="Amateur Hockey Association of Canada">
+ 
+  <event start="1886" title="Amateur Hockey Association of Canada">
        The Amateur Hockey Association of Canada (AHAC) was the first notable ice hockey league organized in Canada, with four teams in Montreal, one in Ottawa and one in Quebec City.
- </event>      
+  </event>      
 
 
+  <event start="1893" title="Dominion Hockey Challenge Cup">
+       Governer-General of Canada, Lord Stanley of Preston donates the Dominion of Hockey Challenge Cup (later named Stanley Cup) which is awarded to Canada's top-ranking amateur ice hockey club. First cup awarded to Montreal HC on 1893.
+  </event>
+       
+       
+  <event start="1915" title="Stanley Cup">
+        In 1915, the two professional ice hockey organizations, the National Hockey Association (NHA) and the Pacific Coast Hockey Association (PCHA), reached an agreement in which their respective champions would face eachother for the newly renamed Stanley Cup.
+  </event>
+  
+  
+  <event start="1917" title="Suspension of NHA and formation of NHL">
+        After unresolving issues within the organization, executives of three teams susped the NHA and form the NHL.
+  </event>
+  
+  
+  <event start="Nov 26 1917" title="First NHL teams announced">
+        First five NHL teams announced to play in the first year of NHL. Teams included the Montreal Canadiens, Montreal Wanderers, Ottawa Senators, Toronto Arenas, and Quebec Bulldogs.
+  </event>
+  
+  
+  <event start=""
+       
 </data>
