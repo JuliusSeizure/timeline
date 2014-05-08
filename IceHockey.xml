@@ -32,10 +32,66 @@
   
   
   <event start="Nov 26 1917" title="First NHL teams announced">
-        First five NHL teams announced to play in the first year of NHL. Teams included the Montreal Canadiens, Montreal Wanderers, Ottawa Senators, Toronto Arenas, and Quebec Bulldogs.
+        First five NHL teams announced to play in the first year of NHL. Teams included the Montreal Canadiens, Montreal Wanderers, Ottawa Senators, Toronto Arenas(Maple Leafs), and Quebec Bulldogs.
   </event>
   
   
-  <event start=""
-       
+  <event start="1924" title="Boston Bruins Join NHL">
+       3rd team of the 'original six' dynasty formed - the Boston Bruins.
+  </event>
+  
+  
+  <event start="1926" title="Chicago Blackhawks Join NHL">
+       4th team of the 'original six' dynasty formed - the Chicago Blackhawks.
+  </event>
+  
+  
+  <event start="1926" title="Detroit Red Wings Join NHL">
+       5th team of the 'original six' dynasty formed - the Detroit Red Wings.
+  </event>
+  
+  
+  <event start="1926" title="New York Rangers Join NHL">
+       6th team of the 'original six' dynasty formed - the New York Rangers.
+  </event>
+  
+  
+  <event start="1935" title="Montreal Canadiens avoid relocation">
+       The Montreal Canadiens narrowly escape a relocation to Cleveland, Ohio, before a syndicate of Montreal bought the team. To this day, the Canadiens' team is one of the most notable teams in the NHL.
+  </event>     
+  
+  
+  <event start="1942" title="One of the Greatest Comebacks in the NHL">
+       During the 1942 Stanley Cup Finals, The heavily favoured Toronto Maple Leafs were down 3-0 (in a best of 7 series) to the Detroit Red Wings. Toronto rebounded, and won 4 straight games to win the Stanley Cup to become the only team in history to win 4 straight games after trailing 0-3 in the Stanley Cup Finals. 
+  </event>
+  
+  
+  <event start="1945" ttle=" Maurice Richard and the 50-in-50 feat">
+       Montreal Canadiens' Maurice Richard scores his 50th goal of the season on the fiftieth - and final - game of the season. Richard was the first of five players in NHL history to achieve this feat.
+  </event>
+  
+  
+  <event start="Mar 13 1948" title="Larry Kwong breaks NHL colour-barrier">
+       On March 13th, 1948, Chinese-Canadian Larry Kwong(a.k.a the "China Clipper") plays his first game in the NHL and subsequently breaks the NHL colour-barrier of white players.
+  </event>
+  
+  
+ <event start="1952" title="CBC begins televising hockey games">
+      Despite only 10% of Canadians owning a television set, the Canadian Broadcasting Corporation (CBC) began televising games.
+ </event>
+ 
+ 
+ <event start"Nov 1 1952" title="Hockey Night in Canada">
+      Hockey Night in Canada first broadcasted on television, with broadcaster Foster Hewitt calling the action between the Toronto Maple Leafs and Boston Bruins. Hockey Night in Canada quickly became the highest-rated show on Canadian television.
+ </event>
+ 
+ 
+ <event start="Jan 18 1958" title="Willie O'Ree">
+      On January 1st, 1958, Willi O'Ree Joined the Bruins as an injury callup. In doing so, becomes the first black player in the NHL.
+ </event>
+ 
+ 
+  
+  
 </data>
+
