@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>SIMILE Widgets | Timeline | Examples | The History of Ice Hockey</title>
+    <title>SIMILE Widgets | Timeline | Examples | The History of League of Legends</title>
     <link rel='stylesheet' href='styles.css' type='text/css' />
 
     <!-- ############################################################################ -->
@@ -57,7 +57,7 @@
             ];
             
             tl = Timeline.create(document.getElementById("tl"), bandInfos, Timeline.HORIZONTAL);
-            tl.loadXML("IceHockey.xml", function(xml, url) {
+            tl.loadXML("leagueoflegends.xml", function(xml, url) {
                 eventSource.loadXML(xml, url);
             });
         }
@@ -80,14 +80,14 @@
     </ul>
   
     <div id="header">
-      <h1>History of Ice Hockey</h1>
+      <h1>History of League of Legends</h1>
     </div>
   
     <div id="content">
       <p>Sources:
           <ul>
-              <li><a href="http://en.wikipedia.org/wiki/History_of_the_National_Hockey_League#1917.E2.80.931942:_Founding">http://en.wikipedia.org/wiki/History_of_the_National_Hockey_League</a></li>
-              <li><a href="http://www.nhl.com/history/timeline.html">NHL.com</a></li>
+              
+             <li><a href="http://timeline.leagueoflegends.com/">timeline.leagueoflegends.com</a></li>
           </ul>
       </p>
       <p>Timeline version <span id='tl_ver'></span>.</p>
